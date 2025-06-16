@@ -1,6 +1,0 @@
-[submodule "nvrhi"]
-	path = nvrhi
-	url = ../NVRHI.git
-[submodule "ShaderMake"]
-	path = ShaderMake
-	url = https://github.com/NVIDIA-RTX/ShaderMake.git
